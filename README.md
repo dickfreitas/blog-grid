@@ -16,11 +16,11 @@
  <p>Responsividade para : Mobile  </p>
  
 <h3>Não Funciona.<h3/>
-  <p>Menu Superior. </p>
-  <p>Links das Redes Sociais. </p>
+<p>Menu Superior. </p>
+<p>Links das Redes Sociais.</p>
  
  
  <h3> Imagens </h3>
-![Captura de Tela (177)](https://user-images.githubusercontent.com/98359009/186995284-fa89b921-9202-45bb-afb2-04866d04e8d4.png)
+<img src="![](src/imagens/print.png)"/> 
 
 
