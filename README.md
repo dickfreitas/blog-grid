@@ -16,11 +16,12 @@
  <p>Responsividade para : Mobile  </p>
  
 <h3>Não Funciona.<h3/>
-  <p>Menu Superior. </p>
-  <p>Links das Redes Sociais. </p>
+<p>Menu Superior. </p>
+<p>Links das Redes Sociais.</p>
  
  
  <h3> Imagens </h3>
+
 <img src="src/imagens/print.png"/>
 
 
