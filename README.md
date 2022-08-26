@@ -21,6 +21,7 @@
  
  
  <h3> Imagens </h3>
-<img src="![](src/imagens/print.png)"/> 
+
+<img src="src/imagens/print.png"/>
 
 
